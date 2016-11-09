@@ -32,9 +32,9 @@ div.ex1 {
 
   /* Change the background image  */
   /* here. Your image should be   */
-  /* 815px wide and 315px high.   */
+  /* 851px wide and 315px high.   */
   header {
-    background-image: url("../images/burruss.jpg");
+    background-image: url(../images/finalcover1.jpg);;
     width: 851px;
     height: 315px;
     background-repeat: no-repeat;
