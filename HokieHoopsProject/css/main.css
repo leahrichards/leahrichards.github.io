@@ -20,13 +20,13 @@ div.ex1 {
     margin: auto;
     float: center;
     border: 6px solid darkgrey;
-    background-color: #800000;
+    background-color: #300000;
 }
 
   body {
     margin:0;
     padding:0;
-    font-family: Sans-Serif;
+    font-family: Sans-serif;
     line-height: 1.5em;
   }
 
@@ -34,7 +34,7 @@ div.ex1 {
   /* here. Your image should be   */
   /* 851px wide and 315px high.   */
   header {
-    background-image: url(../images/finalcover1.jpg);;
+    background-image: url(../images/vtstudentsection.jpg);;
     width: 851px;
     height: 315px;
     background-repeat: no-repeat;
@@ -57,7 +57,7 @@ div.ex1 {
   /* of the menu bar column below. */
   nav {
     padding-left: 0px;
-    background: #000;
+    background: #300000;
     overflow: hidden;
   }
 
@@ -81,6 +81,14 @@ div.ex1 {
 
   p {
     color: #FF6600;
+  }
+
+  h1 {
+    color: #FFFFFF;
+  }
+
+  ul {
+    color: #FFFFFF;
   }
 
   /* Additions to support the external */
@@ -122,13 +130,13 @@ overflow: hidden;
   font-weight: normal;
   padding: 0px 5px;
   font-size: 18px;
-  color: #fff;
+  color: FF6600;
   text-decoration: none;
 }
 
 /* Change the highlight     */
 /* color of the menu below */
 .site-menu a:hover {
-  color: orange;
+  color: darkorange;
   text-decoration: none;
 }
