@@ -84,7 +84,7 @@ div.ex1 {
   }
 
   h1 {
-    color: #FFFFFF;
+    color: white;
   }
 
   ul {
@@ -96,8 +96,9 @@ div.ex1 {
 
 .site-header {
     margin: 0;
-    padding-top: 15px;
-    font-family: Sans-Serif;
+    font-size: 44px;
+    padding-top: 10px;
+    font-family: sans-serif;
     color: white;
   }
 
